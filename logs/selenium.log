@@ -1,0 +1,6 @@
+2025-03-04 23:14:01 [main] INFO  testCases.TC003_LoginDDT - Starting the test suite on OS: windows
+2025-03-04 23:14:01 [main] INFO  testCases.TC003_LoginDDT - Running tests on remote Selenium Grid at: http://localhost:4444/wd/hub
+2025-03-04 23:14:02 [main] INFO  testCases.TC003_LoginDDT - Navigating to the application: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2025-03-04 23:14:11 [main] INFO  testCases.TC003_LoginDDT - ******Starting TC003_LoginDDT *****
+2025-03-04 23:14:14 [main] INFO  testCases.TC003_LoginDDT - ******Finished TC003_LoginDDT *****
+2025-03-04 23:14:14 [main] INFO  testCases.TC003_LoginDDT - Test completed, quitting the driver.
